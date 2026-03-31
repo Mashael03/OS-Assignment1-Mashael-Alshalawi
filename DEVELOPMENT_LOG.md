@@ -32,90 +32,91 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
+### Entry 1 - [March 31, 2026, 10:00 AM]
+**What I did**: Started the assignment and set up repository 
 
 **Details**: 
+-Forked the repository
+-Added my student ID
+-Ran the program successfully
 
-**Challenges**: 
+**Challenges**: Recognizing the original code structure
 
-**Solution**: 
+**Solution**: Line by line, read the code and compare it to the assignment descriptionز
 
-**Time spent**: 
+**Time spent**: 2:30 hours 
 
 ---
 
-### Entry 2 - [Date and Time]
-**What I did**: 
+### Entry 2 - [March 31, 2026, 12:30 PM]
+**What I did**: Round-Robin scheduling analysis
 
 **Details**: 
+-Process execution was tracked.
+-Queue behavior was noted.
 
-**Challenges**: 
+**Challenges**: Comprehending re-queue logic
 
-**Solution**: 
+**Solution**: Followed output step by step
 
-**Time spent**: 
+**Time spent**: 1.5 hours
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
+### Entry 3 - [March 31, 2026, 3:00 PM]
+**What I did**: Implemented Feature 1 (Priority)
 
 **Details**: 
+-Added priority field
+-Displayed it in output
 
-**Challenges**: 
+**Challenges**: Integrating without causing code errors
 
-**Solution**: 
+**Solution**: Tested after each change
 
-**Time spent**: 
+**Time spent**: 2 hours
 
 ---
 
-### Entry 4 - [Date and Time]
-**What I did**: 
+### Entry 4 - [March 31, 2026, 6:00 PM]
+**What I did**: Implemented Feature 2
 
 **Details**: 
+-Added context switch counter
+-Verified correctness
 
 **Challenges**: 
 
-**Solution**: 
+**Solution**: added following the start of the thread
 
-**Time spent**: 
+**Time spent**: 1.5 hours
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**: 
+### Entry 5 - [March 31, 2026, 9:00 PM]
+**What I did**: Implemented Feature 3 + testing
 
 **Details**: 
+-Added waiting time tracking
+-Tested full simulation
 
-**Challenges**: 
+**Challenges**: Accurate computation
 
-**Solution**: 
+**Solution**: Used System.currentTimeMillis
 
-**Time spent**: 
-
----
-
-### Entry 6 - [Optional - Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
+**Time spent**: 2 hours
 
 ---
+: 
+
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+Total time spent on assignment: 8 hours
 
-**Most challenging part**: 
+Most challenging part: Understanding scheduling flow
 
-**Most interesting learning**: 
+Most interesting learning: Thread lifecycle
 
-**What I would do differently next time**: 
+What I would do differently next time: Start earlier and test more frequently
+
